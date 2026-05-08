@@ -28,4 +28,3 @@ during the vehicle passing, two videos of the same passing are included in the d
 The number of the test and the car passing is displayed on a board shown by the authors directly on screen before the action takes place.
 
 In the paper appendix we report the ground truth speed for each pass in each test.
-
