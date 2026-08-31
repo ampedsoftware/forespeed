@@ -1,6 +1,6 @@
 # ForeSpeed Dataset
 
-ForeSpeed includes 322 vehicle passing under CCTV cameras with various settings.
+ForeSpeed comprises 322 videos of 14 physical vehicle passes recorded simultaneously by multiple cameras and subsequently exported using different streams and file formats.
 
 Since the dataset is designed for forensic assessment, we take care of preserving the original video information that is relevant for the task, such as the presentation timestamps (PTS) of variable frame rate videos when available.
 
