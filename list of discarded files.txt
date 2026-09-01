@@ -1,0 +1,56 @@
+List of passes that have been discarded during the evaluation of the speed estimation method reported in "ForeSpeed: A real-world video dataset of CCTV cameras with different settings for vehicle speed estimation". These passes were excluded since the contact points were not clearly visible throughout the path.
+
+ANRAN Cam1		T1P1
+ANRAN Cam1		T1P5
+ANRAN Cam2		T1P1
+ANRAN Cam2		T1P3
+ANRAN Cam2		T1P5
+LOREX Cam 1 main avi	T1P1
+LOREX Cam 1 main avi	T1P3
+LOREX Cam 1 main avi	T1P5
+LOREX Cam 1 main mp4	T1P1
+LOREX Cam 1 main mp4	T1P3
+LOREX Cam 1 main mp4	T1P5
+LOREX Cam 1 sub mp4	T1P1
+LOREX Cam 1 sub mp4	T1P3
+LOREX Cam 1 sub mp4	T1P5
+LOREX Cam 2 main avi	T1P1
+LOREX Cam 2 main avi	T1P3
+LOREX Cam 2 main avi	T1P5
+LOREX Cam 2 main mp4	T1P1
+LOREX Cam 2 main mp4	T1P3
+LOREX Cam 2 main mp4	T1P5
+LOREX Cam 2 sub mp4	T1P1
+LOREX Cam 2 sub mp4	T1P3
+LOREX Cam 2 sub mp4	T1P5
+RING DevTools		T1P1
+RING Download		T1P1
+SWANN Cam 1 main avi	T1P1
+SWANN Cam 1 main avi	T1P3
+SWANN Cam 1 main avi	T1P5
+SWANN Cam 1 main mp4	T1P1
+SWANN Cam 1 main mp4	T1P3
+SWANN Cam 1 main mp4	T1P5
+SWANN Cam 1 sub avi	T1P1
+SWANN Cam 1 sub avi	T1P3
+SWANN Cam 1 sub avi	T1P5
+SWANN Cam 1 sub mp4	T1P1
+SWANN Cam 1 sub mp4	T1P3
+SWANN Cam 1 sub mp4	T1P5
+SWANN Cam 7 main avi	T1P1
+SWANN Cam 7 main avi	T1P3
+SWANN Cam 7 main avi	T1P5
+SWANN Cam 7 main mp4	T1P1
+SWANN Cam 7 main mp4	T1P3
+SWANN Cam 7 main mp4	T1P5
+SWANN Cam 7 sub avi	T1P1
+SWANN Cam 7 sub avi	T1P3
+SWANN Cam 7 sub avi	T1P5
+SWANN Cam 7 sub mp4	T1P1
+SWANN Cam 7 sub mp4	T1P3
+SWANN Cam 7 sub mp4	T1P5
+	
+LOREX Cam 1 main avi	T2P1
+LOREX Cam 1 main avi	T2P3
+RING DevTools		T2P4
+RING Download		T2P4
